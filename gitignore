@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Resultados de prueba
+*_apa7.docx
+*_ieee.docx
+*_mla9.docx
+*_chicago17.docx
+*_vancouver.docx
+*_icontec.docx
